@@ -1,0 +1,86 @@
+/* Styles for the entire page */
+body{
+    margin: 0;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+h2{
+    font-family: 'Teko', sans-serif;
+}
+
+/* Header element styles */
+header{
+    background-color: #008080;
+    text-align: center;
+    padding: 10px 0px;
+}
+
+header h1{
+    color: #330066;
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+    font-size: 100px;
+}
+
+header h2{
+    font-size: 50px;
+}
+
+header img{
+    border-radius: 30px;
+    border: 10px solid black;
+}
+
+/* Main element styles */
+main{
+    max-width: 800px;
+    margin: 0px auto;
+    padding: 0 25px;
+}
+
+main img{
+    max-width: 100%;
+}
+
+main h2{
+    font-size: 40px;
+    color: #008080;
+    text-decoration: underline;
+    margin-bottom: 0px;
+}
+
+/* Footer element styles */
+footer{
+    background-color: #008080;
+    text-align: center;
+    color: white;
+    font-family: 'Teko', sans-serif;
+}
+
+footer a{
+    color: white;
+}
+
+footer p{
+    margin: 0px;
+    padding: 5px;
+}
+
+/* Anchor(link) element styles */
+a{
+    color: #008080;
+    text-decoration: none;
+}
+
+a:hover{
+    opacity: .5;
+}
+
+/* Styling for image caption */
+p.caption{
+    color: #88888894;
+    font-style: italic;
+    margin-top: 0;
+    font-size: 15px;
+}
