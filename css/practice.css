@@ -30,6 +30,8 @@ header h2{
 header img{
     border-radius: 30px;
     border: 10px solid black;
+    box-sizing: border-box;
+    height: 450px;
 }
 
 /* Main element styles */
